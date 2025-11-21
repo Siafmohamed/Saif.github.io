@@ -4,7 +4,7 @@
 Always learning and sharing
 
 ## About Me
-- 📍 From Cairo, Egypt
+   From Cairo, Egypt
 - 🎓 Student at Zagazig University - Faculty of Computers and Information
 - 💻 Currently working on Frontend Projects & Microsoft Core Team
 - 🌱 Skills: Problem Solving, Clean Code, Design Patterns, Frontend Development
